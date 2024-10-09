@@ -1,3 +1,5 @@
 # demo
+
 This is my first Git repositiory.
-Author - Attharv Bhagchandka
+<br>
+Author - Attharv Bhagchandka (Student)
